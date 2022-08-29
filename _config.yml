@@ -4,7 +4,6 @@ title: "Profizyonel"
 description: "Açıklama"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-# disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 
