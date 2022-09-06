@@ -15,4 +15,4 @@ Sıcak ve soğuk uygulamalar, elektrofiziksel ajanlar, masaj, manuel tedavi ve e
 ### Romatoidartritte FTR
 #### Romatoidartritte Egzersiz 
 
-Egzersiz programı esneklik, EHA, postür, kuvvetlendirme, endurans, aerobik, denge ve koordinasyon egzersizlerini içermektedir. Ek olarak, hasta eğitimi, ortez kullanımı, bantlama, hidroterapi, akupunktur, enerji koruma teknikleri, aşırı kilolu hastaların zayıflaması ve ergonomik yaklaşımlar da RA tedavisinde kullanılmaktadır.
+Egzersiz programı esneklik, EHA, postür, kuvvetlendirme, endurans, aerobik, denge ve koordinasyon egzersizlerini içermektedir. Ek olarak, hasta eğitimi, ortez kullanımı, bantlama, hidroterapi, akupunktur, enerji koruma teknikleri, aşırı kilolu hastaların zayıflaması ve ergonomik yaklaşımlar da RA tedavisinde kullanılmaktadır..
