@@ -15,6 +15,6 @@ Osteoartrit ileri yaşlarda sağlıkla ilişkili yaşam kalitesini olumsuz yönd
 ### Osteoartritte FTR
 #### Osteoartritte Egzersiz 
 
-OA tedavisinde kullanılan FTR uygulamaları, sıcak ve soğuk uygulamalar, parafin, elektrofiziksel ajanlar, masaj, manuel tedavi, bantlama ve egzersiz programını içermektedir. Transkutanöz Elektriksel Sinir Stimülasyonu (TENS), ultrason (US), Nöromusküler Elektriksel Stimülasyon (NMES), enterferansiyel akım ve Ekstrakorporeal Şok Dalga Tedavisi (ESWT) OA üzerinde tedavi edici etkisi olan elektrofiziksel ajanlardır. Egzersiz programı esneklik, eklem hareket açıklığı (EHA), postür (duruş), kuvvetlendirme, endurans (dayanıklılık), aerobik, denge ve koordinasyon egzersizlerinden oluşmaktadır.
+OA tedavisinde kullanılan FTR uygulamaları, sıcak ve soğuk uygulamalar, parafin, elektrofiziksel ajanlar, masaj, manuel tedavi, bantlama ve egzersiz programını içermektedir. Transkutanöz Elektriksel Sinir Stimülasyonu (TENS), ultrason (US), Nöromusküler Elektriksel Stimülasyon (NMES), enterferansiyel akım ve Ekstrakorporeal Şok Dalga Tedavisi (ESWT) OA üzerinde tedavi edici etkisi olan elektrofiziksel ajanlardır. Egzersiz programı esneklik, eklem hareket açıklığı (EHA), postür (duruş), kuvvetlendirme, endurans (dayanıklılık), aerobik, denge ve koordinasyon egzersizlerinden oluşmaktadır..
 
 
