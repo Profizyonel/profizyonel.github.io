@@ -6,7 +6,7 @@ categories: [ masaj, manuel terapi, tedavi ]
 tags: []
 image: assets/images/3.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 
