@@ -8,9 +8,25 @@ comments: true
 
 #### Uzman Fizyoterapist
 
-Kübra Özonay, 1990 yılında İzmir’de doğdu. Muğla Sıtkı Koçman Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nden 2013 yılında mezun oldu. Fizik tedavi merkezi, özel eğitim ve rehabilitasyon merkezi gibi yerlerde çalışarak tecrübeler edindi. 2020 yılında Dokuz Eylül Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü Muskuloskeletal Fizyoterapi Yüksek Lisans Bölümü’nü bitirdi. Sonrasında İzmir Demokrasi Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nde doktora programına başladı. Doktora ders dönemini başarıyla tamamladı ve şu an doktora yeterliğe hazırlanıyor. Akademik alanda makale, kitap bölümü, sözlü ve yazılı kongre bildirileri gibi birçok çalışmaya sahiptir. Bunların dışında birçok sertifika ve katılım belgeleri de bulunmaktadır.
+Kübra Özonay, 1990 yılında İzmir’de doğdu. Muğla Sıtkı Koçman Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nden 2013 yılında mezun oldu. Fizik tedavi merkezi, özel eğitim ve rehabilitasyon merkezi gibi yerlerde çalışarak tecrübeler edindi. 2020 yılında Dokuz Eylül Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü Muskuloskeletal Fizyoterapi Yüksek Lisans Bölümü’nü bitirdi. Sonrasında İzmir Demokrasi Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nde doktora programına başladı. Akademik alanda makale, kitap bölümü, sözlü ve yazılı kongre bildirileri gibi birçok çalışmaya sahiptir. Bunların dışında birçok sertifika ve katılım belgeleri de bulunmaktadır.
 
 **YÜKSEK LİSANS TEZİ:** Spesifik olmayan kronik boyun ağrısında derin servikal fleksör kas enduransı ile boyun pozisyon duyusu ve vücut dengesinin ilişkisi
+
+### SERTİFİKALAR VE KATILIM BELGELERİ:
+
+- İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Tip 1 ve Tip 2 pelvis fonksiyon bozukluğu değerlendirmesi ile servikal, torakal ve lumbosakral bölgeleri içeren değerlendirme yöntemleri)
+- İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Servikal ve lumbal instabilite muayeneleri, C0-C1 ve C1-C2 manipulasyon ve mobilizasyon teknikleri, FRS, ERS ve NSR omurga manipulasyon ve mobilizasyon teknikleri)
+- Klinik Pilates Egzersiz Metodu Reformer Kursu Sertifikası-2022
+- Reformer Pilates Eğitmenliği Eğitim Sertifikası-2022
+- Hamile Pilates Eğitmenlik Eğitimi Sertifikası-2022
+- Uygulamalı İleri SPSS Kursu Katılım Belgesi-2022
+- Karabağ II. Uluslararası Uygulamalı Bilimler Kongresi Katılım Sertifikası-2021
+- Mehmet Akif Ersoy Üniversitesi 4. Uluslararası Sağlık Bilimleri ve Yaşam Kongresi Katılım Sertifikası-2021
+- Sistematik Derleme ve Meta-Analiz Yapma ve Yayına Hazırlama Kursu Katılım Belgesi-2021
+- Osteopatik Manuel Terapi Sertifikası-2017
+- Kuru İğneleme Sertifikası-2017
+- Kupa Terapisi Sertifikası-2017
+- Lumbal, Servikal ve Torakal Bölge Manipulasyon ve Mobilizasyon Kursu Sertifikası-2013
 
 ### AKADEMİK YAYINLAR:
 
@@ -56,23 +72,6 @@ Toprak, D., Çinar Özdemir, Ö. ve Özonay, K. (2021). Fizyoterapide ısı, ı�
 
 Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applications in physiotherapy.
 
-### SERTİFİKALAR VE KATILIM BELGELERİ:
-
-- İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Tip 1 ve Tip 2 pelvis fonksiyon bozukluğu değerlendirmesi ile servikal, torakal ve lumbosakral bölgeleri içeren değerlendirme yöntemleri)
-- İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Servikal ve lumbal instabilite muayeneleri, C0-C1 ve C1-C2 manipulasyon ve mobilizasyon teknikleri, FRS, ERS ve NSR omurga manipulasyon ve mobilizasyon teknikleri)
-- Klinik Pilates Egzersiz Metodu Reformer Kursu Sertifikası-2022
-- Reformer Pilates Eğitmenliği Eğitim Sertifikası-2022
-- Hamile Pilates Eğitmenlik Eğitimi Sertifikası-2022
-- Uygulamalı İleri SPSS Kursu Katılım Belgesi-2022
-- Karabağ II. Uluslararası Uygulamalı Bilimler Kongresi Katılım Sertifikası-2021
-- Mehmet Akif Ersoy Üniversitesi 4. Uluslararası Sağlık Bilimleri ve Yaşam Kongresi Katılım Sertifikası-2021
-- Sistematik Derleme ve Meta-Analiz Yapma ve Yayına Hazırlama Kursu Katılım Belgesi-2021
-- Osteopatik Manuel Terapi Sertifikası-2017
-- Kuru İğneleme Sertifikası-2017
-- Kupa Terapisi Sertifikası-2017
-- Lumbal, Servikal ve Torakal Bölge Manipulasyon ve Mobilizasyon Kursu Sertifikası-2013
-
-
 ### İLETİŞİM
 
  ![Phone](/assets/images/phone16.png) 0506 476 61 35
@@ -82,7 +81,7 @@ Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applicatio
 
  ![Email](/assets/images/mail16.png) profizyonel@gmail.com
 
- [![Instagram](/assets/images/instagram16.png "Instagram Profizyonel")](https://www.instagram.com/profizyonel) profizyonel
+ [![Instagram](/assets/images/instagram16.png "Instagram Profizyonel")](https://www.instagram.com/profizyonel) [profizyonel](https://www.instagram.com/profizyonel)
 
 
 ### KONUM
