@@ -71,12 +71,11 @@ Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applicatio
 
 ### İLETİŞİM
 
- 0506 476 61 35
+ ![Phone](/assets/images/phone16.png) 0506 476 61 35
 
- Güneşli mahallesi 520/2 sokak İşyeri no.28/1A
+ ![Address](/assets/images/address16.png) Güneşli mahallesi 520/2 sokak İşyeri no.28/1A
     Üçyol Konak/İZMİR
 
-  
  ![Email](/assets/images/mail16.png) profizyonel@gmail.com
 
  [![Instagram](/assets/images/instagram16.png "Instagram Profizyonel")](https://www.instagram.com/profizyonel) profizyonel
