@@ -5,7 +5,7 @@ author: Kübra
 categories: [ manuel terapi, tedavi ]
 tags: []
 image: assets/images/1.jpeg
-description: "Manuel Terapi"
+description: ""
 featured: true
 hidden: false
 ---
