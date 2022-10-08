@@ -2,11 +2,11 @@
 layout: post
 title:  "MANUEL TERAPİ"
 author: Kübra
-categories: [ manuel terapi]
+categories: [ manuel terapi, tedavi ]
 tags: []
 image: assets/images/1.jpeg
 description: "Manuel Terapi"
-featured: false
+featured: true
 hidden: false
 ---
 

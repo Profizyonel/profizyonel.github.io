@@ -2,7 +2,7 @@
 layout: post
 title:  "Kayropraksi"
 author: Kübra
-categories: [ romatoidartrit, tedavi]
+categories: [kayropraksi, manuel terapi, tedavi]
 tags: []
 image: assets/images/2.jpg
 description: ""
