@@ -17,6 +17,7 @@ Kübra Özonay, 1990 yılında İzmir’de doğdu. Muğla Sıtkı Koçman Ünive
 **Uluslararası hakemli dergilerde yayımlanan makaleler:**
 
 Çinar Özdemir, Ö., & Özonay, K. (2022). Relationship between anxiety, depression, symptom level, and quality of life in individuals with COPD. Journal of Experimental and Clinical Medicine, 39(1), 144-148.
+
 Barğı, G., & Özonay, K. (2022). Assessment of neck pain, low back pain and disability in patients isolated at home due to mild-COVID-19: a cross-sectional study. Journal of Basic and Clinical Health Sciences, 6(1), 155-163.
 
 **Uluslararası bilimsel toplantılarda sunulan ve bildiri kitaplarında basılan bildiriler:**
