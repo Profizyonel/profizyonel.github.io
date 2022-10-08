@@ -1,9 +1,9 @@
 # Site
 name: "Profizyonel"
 title: "Profizyonel"
-description: "Açıklama"
+description: "Fizyoterapi ve Egzersiz Danışmanlık Merkezi"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 include: ["_pages"]
 permalink: /:title/
 
