@@ -21,6 +21,7 @@ Kübra Özonay, 1990 yılında İzmir’de doğdu. Muğla Sıtkı Koçman Ünive
 Barğı, G., & Özonay, K. (2022). Assessment of neck pain, low back pain and disability in patients isolated at home due to mild-COVID-19: a cross-sectional study. Journal of Basic and Clinical Health Sciences, 6(1), 155-163.
 
 **Uluslararası bilimsel toplantılarda sunulan ve bildiri kitaplarında basılan bildiriler:**
+
 Barğı, G., & Özonay, K. (2021). Investigation of neck pain, low back pain, and disability in individuals isolated at home due to COVID-19. 4th International Health Sciences and Life Congress Abstract Book, p.250.
 
 Çinar Özdemir, Ö., & Özonay, K. (2021). Examination of anxiety levels according to COPD stages. Karabakh II. International Congress of Applied Sciences, Azerbaijan National Academy of Sciences, Proceeding Book Volume-I, p.136-143.
@@ -40,11 +41,13 @@ Toprak, D., Çinar Özdemir, Ö. ve Özonay, K. (2021). Fizyoterapide ısı, ı�
 Özonay, K. ve Çinar Özdemir, Ö. (2021) Boyun ağrısında değerlendirme. İzmir Demokrasi Üniversitesi Uluslararası Sağlık Bilimleri Kongresi, Kongre Kitabı.
 
 **Yayın aşamasında olan makaleler:**
+
 Özonay, K., & Yeşilyaprak S. S. Relationship of deep cervical flexor muscle endurance with neck position sense and balance in nonspecific chronic neck pain: a cross-sectional study.
 
 Çinar Özdemir, Ö., Yıldırım, B., & Özonay, K. Examination of the relationship between fear of COVID-19, sexual functions, depression, and anxiety in women with COVID-19.
 
 **Yayın aşamasında olan ulusal/uluslararası kitaplardaki bölümler:**
+
 Özonay, K. ve Çinar Özdemir, Ö. Kronik hastalıklarda mental problemler.
 
 Özonay, K., & Çinar Özdemir, Ö. Musculoskeletal physiotherapy and rehabilitation.
@@ -54,6 +57,7 @@ Toprak, D., Çinar Özdemir, Ö. ve Özonay, K. (2021). Fizyoterapide ısı, ı�
 Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applications in physiotherapy.
 
 ### SERTİFİKALAR VE KATILIM BELGELERİ:
+
 - İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Tip 1 ve Tip 2 pelvis fonksiyon bozukluğu değerlendirmesi ile servikal, torakal ve lumbosakral bölgeleri içeren değerlendirme yöntemleri)
 - İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Servikal ve lumbal instabilite muayeneleri, C0-C1 ve C1-C2 manipulasyon ve mobilizasyon teknikleri, FRS, ERS ve NSR omurga manipulasyon ve mobilizasyon teknikleri)
 - Klinik Pilates Egzersiz Metodu Reformer Kursu Sertifikası-2022
