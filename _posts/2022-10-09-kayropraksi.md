@@ -2,12 +2,12 @@
 layout: post
 title:  "Kayropraksi"
 author: Kübra
-categories: [kayropraksi, manuel terapi, tedavi]
+categories: [kayropraksi, kütletme, manuel terapi, tedavi]
 tags: []
 image: assets/images/2.jpg
 description: ""
 featured: true
-hidden: true
+hidden: false
 ---
 
 KAYROPRAKSİ
