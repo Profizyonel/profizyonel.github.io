@@ -22,25 +22,35 @@ Barğı, G., & Özonay, K. (2022). Assessment of neck pain, low back pain and di
 
 **Uluslararası bilimsel toplantılarda sunulan ve bildiri kitaplarında basılan bildiriler:**
 Barğı, G., & Özonay, K. (2021). Investigation of neck pain, low back pain, and disability in individuals isolated at home due to COVID-19. 4th International Health Sciences and Life Congress Abstract Book, p.250.
+
 Çinar Özdemir, Ö., & Özonay, K. (2021). Examination of anxiety levels according to COPD stages. Karabakh II. International Congress of Applied Sciences, Azerbaijan National Academy of Sciences, Proceeding Book Volume-I, p.136-143.
+
 Çinar Özdemir, Ö., Sürmeli, M., & Özonay, K. (2021). Investigation of the relationship between kinesiophobia, pain, and depression in individuals with neck pain. Izmir Democracy University International Congress of Health Sciences (ICHES-IDU 2021), p.41-42.
 
 **Yazılan ulusal/uluslararası kitaplardaki bölümler:**
 
 Özonay, K. ve Çinar Özdemir, Ö. (2021). Kronik problemleri olan yaşlı bireylerde fizyoterapi ve rehabilitasyon. Erbahçeci, F., Ün Yıldırım, N. (Ed.). Geriatrik fizyoterapi ve rehabilitasyon içinde (s.511-537). Ankara: Hipokrat Yayınevi.
+
 Özonay, K. ve Çinar Özdemir, Ö. (2021). Kas-iskelet fizyoterapisi ve rehabilitasyonu. Harutoğlu, H. (Ed.). Güncel yaklaşımlarla fizyoterapi ve rehabilitasyona giriş içinde (s.139-152). Ankara: Hipokrat Yayınevi.
+
 Çinar Özdemir, Ö. ve Özonay, K. Üriner inkontinans. Harutoğlu, H. (Ed.). Fizyoterapi ve rehabilitasyonda özel konular içinde (s.185-197). Ankara: Hipokrat Yayınevi.
+
 Toprak, D., Çinar Özdemir, Ö. ve Özonay, K. (2021). Fizyoterapide ısı, ışık ve su uygulamaları. Harutoğlu, H. (Ed.). Güncel yaklaşımlarla fizyoterapi ve rehabilitasyona giriş içinde (s.55-67). Ankara: Hipokrat Yayınevi.
+
 Özonay, K. ve Çinar Özdemir, Ö. (2021) Boyun ağrısında değerlendirme. İzmir Demokrasi Üniversitesi Uluslararası Sağlık Bilimleri Kongresi, Kongre Kitabı.
 
 **Yayın aşamasında olan makaleler:**
 Özonay, K., & Yeşilyaprak S. S. Relationship of deep cervical flexor muscle endurance with neck position sense and balance in nonspecific chronic neck pain: a cross-sectional study.
+
 Çinar Özdemir, Ö., Yıldırım, B., & Özonay, K. Examination of the relationship between fear of COVID-19, sexual functions, depression, and anxiety in women with COVID-19.
 
 **Yayın aşamasında olan ulusal/uluslararası kitaplardaki bölümler:**
 Özonay, K. ve Çinar Özdemir, Ö. Kronik hastalıklarda mental problemler.
+
 Özonay, K., & Çinar Özdemir, Ö. Musculoskeletal physiotherapy and rehabilitation.
+
 Çinar Özdemir, Ö., & Özonay, K. Urinary incontinence.
+
 Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applications in physiotherapy.
 
 ### SERTİFİKALAR VE KATILIM BELGELERİ:
