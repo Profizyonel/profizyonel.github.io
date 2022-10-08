@@ -87,4 +87,4 @@ Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applicatio
 
 ### Konum Test
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">google map location for website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3126.6629660720814!2d27.12385531560567!3d38.40304118353603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd92824087833%3A0xfe081a9bc339678e!2zR8O8bmXFn2xpLCA1MjAvMi4gU2suLCAzNTI3MCBLb25hay_EsHptaXI!5e0!3m2!1sen!2str!4v1665224687971!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
