@@ -4,9 +4,9 @@ title:  "Osteoartrit ve Tedavisi"
 author: Kübra
 categories: [ osteoartrit, tedavi]
 tags: []
-image: assets/images/19.jpg
+image: assets/images/.jpg
 description: "Fizik Tedavide manuel tedavi oldu"
-featured: true
+featured: false
 hidden: true
 ---
 

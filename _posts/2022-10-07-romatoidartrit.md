@@ -4,9 +4,9 @@ title:  "Romatoidartrit ve Tedavisi"
 author: Kübra
 categories: [ romatoidartrit, tedavi]
 tags: []
-image: assets/images/18.png
+image: assets/images/.png
 description: "Fizik Tedavide manuel tedavi oldu"
-featured: true
+featured: false
 hidden: true
 ---
 
