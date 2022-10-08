@@ -8,7 +8,7 @@ comments: true
 
 #### Uzman Fizyoterapist
 
-1990 yılında İzmir’de doğdu. 2013 yılında Muğla Sıtkı Koçman Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nden  mezun oldu. Fizik tedavi merkezi, özel eğitim ve rehabilitasyon merkezi gibi yerlerde çalışarak tecrübeler edindi. 2020 yılında Dokuz Eylül Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü Muskuloskeletal Fizyoterapi Yüksek Lisans Bölümü’nü bitirdi. Sonrasında İzmir Demokrasi Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nde doktora yapmaya başladı. Akademik alanda makale, kitap bölümü, sözlü ve yazılı kongre bildirileri gibi birçok çalışmaya sahiptir. Bunların dışında birçok sertifika ve katılım belgeleri de bulunmaktadır.
+1990 yılında İzmir’de doğdu. 2013 yılında Muğla Sıtkı Koçman Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nden  mezun oldu. Fizik tedavi merkezi, özel eğitim ve rehabilitasyon merkezi gibi yerlerde çalışarak tecrübeler edindi. 2020 yılında Dokuz Eylül Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü Muskuloskeletal Fizyoterapi Yüksek Lisans Bölümü’nü bitirdi. Sonrasında İzmir Demokrasi Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü’nde doktora yapmaya başladı. Akademik alanda makale, kitap bölümü, sözlü ve yazılı kongre bildirileri gibi birçok yayına sahiptir. Bunların dışında birçok sertifika ve katılım belgeleri de bulunmaktadır.
 
 **YÜKSEK LİSANS TEZİ:** Spesifik olmayan kronik boyun ağrısında derin servikal fleksör kas enduransı ile boyun pozisyon duyusu ve vücut dengesinin ilişkisi
 
