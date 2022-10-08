@@ -6,7 +6,7 @@ categories: [ kinezyolojik bantlama, manuel terapi, tedavi ]
 tags: []
 image: assets/images/5.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 

@@ -6,7 +6,7 @@ categories: [kayropraksi, kütletme, manuel terapi, tedavi]
 tags: []
 image: assets/images/2.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 

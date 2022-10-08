@@ -6,7 +6,7 @@ categories: [ tetik nokta, kulunç, manuel terapi, tedavi ]
 tags: []
 image: assets/images/4.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 
