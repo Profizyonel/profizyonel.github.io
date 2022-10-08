@@ -69,3 +69,9 @@ Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applicatio
 - Lumbal, Servikal ve Torakal Bölge Manipulasyon ve Mobilizasyon Kursu Sertifikası-2013
 
 
+### İLETİŞİM
+ 0506 476 61 35
+ Güneşli mahallesi 520/2 sokak İşyeri no.28/1A
+      Üçyol Konak/İZMİR
+ profizyonel@gmail.com 
+ [Instagram profizyonel](https://www.instagram.com/profizyonel)
