@@ -9,7 +9,6 @@ description: ""
 featured: true
 hidden: false
 ---
-KLİNİK PİLATES
 
 1900’lü yılların başında Joseph Pilates tarafından geliştirilen pilates metodu, 2000’li yıllarda sağlıkçılar tarafından yeniden uyarlanarak “klinik pilates” adını almıştır.
 
