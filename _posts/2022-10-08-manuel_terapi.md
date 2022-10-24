@@ -6,7 +6,7 @@ categories: [ manuel terapi, tedavi ]
 tags: []
 image: assets/images/1.jpeg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 
