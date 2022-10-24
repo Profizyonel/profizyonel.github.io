@@ -4,6 +4,8 @@ title: Hakkımızda
 permalink: /about
 comments: true
 ---
+![fotograf](/assets/images/8.jpeg)
+
 ### Kübra ÖZONAY
 
 #### Uzman Fizyoterapist
