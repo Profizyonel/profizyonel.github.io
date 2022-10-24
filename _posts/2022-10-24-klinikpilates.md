@@ -4,7 +4,7 @@ title:  "KLİNİK PİLATES"
 author: Kübra
 categories: [ tedavi, pilates, egzersiz ]
 tags: []
-image: assets/images/7.jepg
+image: assets/images/7.jpeg
 description: ""
 featured: true
 hidden: false
@@ -18,9 +18,13 @@ Klinik pilates bel, boyun ve sırt ağrıları, duruş bozuklukları, ortopedik 
 Klinik pilatesin faydaları şunlardır:
 
 ✨️ Omurga esnekliği, eklem hareketi, kas kuvveti, kas dayanıklılığı, dolaşım ve solunum sistemi kapasitesini artırır.
+
 ✨️Motivasyonu, odaklanmayı ve enerjik hissetmeyi sağlar.
+
 ✨️Duruş bozukluklarını düzeltir.
+
 ✨️Vücut farkındalığını ve vücut dengesini geliştirir.
+
 ✨️Düzenli yapılması halinde vücut yapısının, ideal duruşun, kendine ve vücuduna güven halinin arttığı görülür.
 
 
