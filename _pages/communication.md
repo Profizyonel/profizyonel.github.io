@@ -19,4 +19,4 @@ comments: true
 
 ### KONUM
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3126.691955861341!2d27.126524!3d38.402370999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd8d7d7f0adfb%3A0x32eea04fde971e82!2zR8O8bmXFn2xpLCA1MjAvMi4gU2suIDI4LzEsIDM1MjcwIEtvbmFrL8Swem1pcg!5e0!3m2!1sen!2str!4v1665224752448!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d286.8535006574995!2d27.12650159458048!3d38.402423107809724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd9ecfe616081%3A0x926dbf7971ea4a85!2sPROF%C4%B0ZYONEL!5e0!3m2!1str!2str!4v1666634596812!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
