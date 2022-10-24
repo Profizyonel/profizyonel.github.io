@@ -10,9 +10,7 @@ featured: true
 hidden: false
 ---
 
-1900’lü yılların başında Joseph Pilates tarafından geliştirilen pilates metodu, 2000’li yıllarda sağlıkçılar tarafından yeniden uyarlanarak “klinik pilates” adını almıştır.
-
-Klinik pilates bel, boyun ve sırt ağrıları, duruş bozuklukları, ortopedik yaralanmalar, nöroloijk hastalıklar, romatizmal hastalıklar, kemik erimesi, omurga eğrilikleri ve gebelik gibi spesifik hastalıklarda yaygın olarak kullanılmaktadır.
+1900’lü yılların başında Joseph Pilates tarafından geliştirilen pilates metodu, 2000’li yıllarda sağlıkçılar tarafından yeniden uyarlanarak “klinik pilates” adını almıştır. Klinik pilates bel, boyun ve sırt ağrıları, duruş bozuklukları, ortopedik yaralanmalar, nöroloijk hastalıklar, romatizmal hastalıklar, kemik erimesi, omurga eğrilikleri ve gebelik gibi spesifik hastalıklarda yaygın olarak kullanılmaktadır.
 
 Klinik pilatesin faydaları şunlardır:
 
