@@ -6,7 +6,7 @@ categories: [ tedavi, pilates, egzersiz ]
 tags: []
 image: assets/images/7.jpeg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 
