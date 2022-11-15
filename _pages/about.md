@@ -19,7 +19,7 @@ comments: true
 - İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022 (Lumbo-sakral, servikal ve torasik bölge manipulasyon ve mobilizasyon teknikleri)
 - Üst Ekstremite İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022
 - Alt Ekstremite İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022
-- Enstürman Yardımlı Yumuşak Doku Mobilizasyonu Graston Metodu ve Tetik Nokta Sertifikası-2022
+- Enstrüman Yardımlı Yumuşak Doku Mobilizasyonu Graston Metodu ve Tetik Nokta Sertifikası-2022
 - Kinezyolojik Bantlama Kursu Sertifikası-2022
 - İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Tip 1 ve Tip 2 pelvis fonksiyon bozukluğu değerlendirmesi ile servikal, torakal ve lumbosakral bölgeleri içeren değerlendirme yöntemleri)
 - İleri Ortopedik Manuel Terapi Level 2 Kursu Sertifikası-2022 (Servikal ve lumbal instabilite muayeneleri, C0-C1 ve C1-C2 manipulasyon ve mobilizasyon teknikleri, FRS, ERS ve NSR omurga manipulasyon ve mobilizasyon teknikleri)
