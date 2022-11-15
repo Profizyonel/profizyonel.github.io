@@ -4,7 +4,7 @@ title: Hakkımızda
 permalink: /about
 comments: true
 ---
-![fotograf](/assets/images/8.jpeg)
+![fotograf](/assets/images/14.jpeg)
 
 ### Kübra ÖZONAY
 
