@@ -53,6 +53,8 @@ Barğı, G., & Özonay, K. (2021). Investigation of neck pain, low back pain, an
 
 **Yazılan ulusal/uluslararası kitaplardaki bölümler:**
 
+Çinar Özdemir, Ö., & Özonay, K. (2022). Urinary incontinence. In: Harutoğlu, H., İyigün, G., Angın, E., & Kahraman, A. (Eds.). Special topics in physiotherapy and rehabilitation (p.183-196). Ankara: Hipokrat Publishing.
+
 Özonay, K. ve Çinar Özdemir, Ö. (2021). Kronik problemleri olan yaşlı bireylerde fizyoterapi ve rehabilitasyon. Erbahçeci, F., Ün Yıldırım, N. (Ed.). Geriatrik fizyoterapi ve rehabilitasyon içinde (s.511-537). Ankara: Hipokrat Yayınevi.
 
 Özonay, K. ve Çinar Özdemir, Ö. (2021). Kas-iskelet fizyoterapisi ve rehabilitasyonu. Harutoğlu, H. (Ed.). Güncel yaklaşımlarla fizyoterapi ve rehabilitasyona giriş içinde (s.139-152). Ankara: Hipokrat Yayınevi.
@@ -71,10 +73,10 @@ Toprak, D., Çinar Özdemir, Ö. ve Özonay, K. (2021). Fizyoterapide ısı, ı�
 
 **Yayın aşamasında olan ulusal/uluslararası kitaplardaki bölümler:**
 
+Özonay, K. ve Taşpınar, F. Ekstremite kas yorgunluğunun postüral kontrol üzerine etkileri.
+
 Özonay, K. ve Çinar Özdemir, Ö. Kronik hastalıklarda mental problemler.
 
 Özonay, K., & Çinar Özdemir, Ö. Musculoskeletal physiotherapy and rehabilitation.
-
-Çinar Özdemir, Ö., & Özonay, K. Urinary incontinence.
 
 Toprak, D., Çinar Özdemir, Ö., & Özonay, K. Heat, light and water applications in physiotherapy.
