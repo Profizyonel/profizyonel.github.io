@@ -6,7 +6,7 @@ categories: [ boyun, manuel terapi, tedavi ]
 tags: []
 image: assets/images/15.jpg
 description: ""
-featured: true
+featured: false
 hidden: false
 ---
 
