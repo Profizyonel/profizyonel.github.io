@@ -16,6 +16,7 @@ comments: true
 
 ### SERTİFİKALAR VE KATILIM BELGELERİ:
 
+- Üç Boyutlu Skolyoz Tedavisi - 2023
 - İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022 (Lumbo-sakral, servikal ve torasik bölge manipulasyon ve mobilizasyon teknikleri)
 - Üst Ekstremite İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022
 - Alt Ekstremite İleri Ortopedik Manuel Terapi Level 1 Kursu Sertifikası-2022
